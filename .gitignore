@@ -1,0 +1,5 @@
+.terraform*
+terraform.tfstate*
+crash.log
+#vim swap files
+[._]*.sw[a-p]
